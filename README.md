@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=270&section=headerr&text=Welcome%20to%20Andrew%20Rowe's%20GitHub&fontSize=25)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=270&section=headerr&text=Andrew%20Rowe's%20GitHub&fontSize=25)
 
 ### Hi there 👋
 I'm Andrew -  𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆: training within a DevOps and IT analyst environment (liberal familiarisation with Agile methodologies, Jira, Git, SQL, Python, ServiceNow...) - with the aim of specialising in system configuration, development and custom feature implementation for client/server-side scenarios (focus on technical consulting/specs preparation, testing and rollout support etc.) 
